@@ -1,4 +1,6 @@
 # Lab 8 - Starter
+Paul Nguyen <br>
+A16660828
 1) Within a Github action that runs whenever code is pushed
 2) no
 3) No. Testing of this message feature should be left for end to end testing since it deals more with direct user interaction and can have a lot of moving parts.
